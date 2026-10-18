@@ -1,5 +1,5 @@
 <h1>Vyoma-Niti-Mandala</h1>
-<img width="100" height="100" alt="voyma niti mandala logo group 621" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
+<img width="1000" height="1000" alt="voyma niti mandala logo group 621" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
 KIBO Robot Programming Challenge
 
 Our submission for the KIBO Robot Programming Challenge — combining robotics, programming, teamwork, and creative problem-solving to explore the possibilities of space robotics.
