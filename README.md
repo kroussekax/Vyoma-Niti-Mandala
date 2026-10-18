@@ -1,4 +1,5 @@
 <h1>Vyoma-Niti-Mandala</h1>
+<img width="100" height="100" alt="voyma niti mandala logo group 621" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
 KIBO Robot Programming Challenge
 
 Our submission for the KIBO Robot Programming Challenge — combining robotics, programming, teamwork, and creative problem-solving to explore the possibilities of space robotics.
@@ -37,7 +38,7 @@ Make sure you have the necessary software and tools to develop and run the proje
 
 Installation
 Clone the repository:
-git clone https://github.com/YOUR-USERNAME/Vyoma-Niti-Mandala.git
+git clone: empty for now
 
 Navigate to the project directory:
 cd Vyoma-Niti-Mandala
@@ -69,9 +70,8 @@ Add a license if you intend to distribute the project under specific terms.
 
 <div align="center">
 
-✨ Built with curiosity, code, and teamwork. 🚀
+Have a fun time yiffin' !
 
 </div>
-<img width="1608" height="1608" alt="voyma niti mandala logo group 621" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
 
 جْيْمْبٌتْ
