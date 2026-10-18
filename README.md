@@ -1,77 +1,90 @@
-<img width="1000" height="1000" alt="Made with love by Aldwyn :3" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
-<h1>Vyoma-Niti-Mandala</h1>
-KIBO Robot Programming Challenge
-
-Our submission for the KIBO Robot Programming Challenge — combining robotics, programming, teamwork, and creative problem-solving to explore the possibilities of space robotics.
-
-About the Project
-
-Vyoma-Niti-Mandala is our team's project for the KIBO Robot Programming Challenge. Through this project, we aim to design and implement a robotic solution that addresses the challenge using logical thinking, efficient programming, and innovative engineering.
-
-A. Objectives
-B. Develop a reliable robotic solution for the challenge.
-C. Implement efficient and well-structured code.
-D. Apply problem-solving and computational thinking.
-E. Test, debug, and refine our implementation.
-F. Collaborate to build a successful submission.
-G. Built With
-
-Add the programming languages, tools, and technologies used in your project.
-
-Programming Language: To be added
-Robot Platform: KIBO
-Development Tools: To be added
-📂 Project Structure
-Vyoma-Niti-Mandala/
-├── README.md
-├── src/              # Source code
-├── docs/             # Documentation
-└── assets/           # Images and other resources
-
-
-Update this structure to match the actual files in the repository.
-
->> Getting Started
-Prerequisites
-
-Make sure you have the necessary software and tools to develop and run the project.
-
-Installation
-Clone the repository:
-git clone: empty for now
-
-Navigate to the project directory:
-cd Vyoma-Niti-Mandala
-
-Follow the setup instructions for the project's programming environment.
->> Testing & Development
-
-We continuously test and refine our solution to improve its reliability, accuracy, and performance.
-
-Implement the core solution.
-Test robot behavior.
-Debug and optimize the program.
-Validate the final submission.
->> Team
-
-Team Name: Vyoma-Niti-Mandala
-
-Add your team members and their roles here.
-
->> About the Challenge
-
-The KIBO Robot Programming Challenge encourages participants to apply programming, robotics, and engineering skills to solve problems through experimentation and innovation.
-
->> License
-
-This project was created as a submission for the KIBO Robot Programming Challenge.
-
-Add a license if you intend to distribute the project under specific terms.
+Vyoma-Niti-Mandala
 
 <div align="center">
+<img width="220" alt="Vyoma-Niti-Mandala Logo" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
 
-Have a fun time yiffin' !
+KIBO Robot Programming Challenge
+
+Our submission for the KIBO Robot Programming Challenge.
+
+Overview · Development · Team
 
 </div>
 
-جْيْمْبٌتْ
+About the Project
+
+Vyoma-Niti-Mandala is our team's submission for the KIBO Robot Programming Challenge. The project focuses on applying computational thinking, robotics, and software development to design and implement a solution to the challenge.
+
+Through experimentation, collaboration, and iterative development, we aim to create a reliable and effective solution.
+
+Objectives
+Develop a reliable robotic solution to address the challenge requirements.
+Implement clear, efficient, and maintainable code.
+Apply computational thinking and systematic problem-solving.
+Test, debug, and refine the implementation.
+Collaborate effectively throughout the development process.
+Technologies
+Component	Technology
+Robot Platform	KIBO
+Programming Language	To be determined
+Development Tools	To be determined
+Project Structure
+Vyoma-Niti-Mandala/
+├── README.md
+├── src/       # Source code
+├── docs/      # Project documentation
+└── assets/    # Images and other resources
+
+
+The directory structure will be updated to reflect the actual repository as development progresses.
+
+Getting Started
+Prerequisites
+
+The required software and tools will be documented once the development environment has been finalized.
+
+Installation
+
+Repository cloning instructions will be added once the repository URL is available.
+
+After cloning the repository, navigate to the project directory:
+
+cd Vyoma-Niti-Mandala
+
+
+Additional setup and execution instructions will be provided as the project develops.
+
+Development
+
+Development will follow an iterative process focused on functionality, reliability, and performance.
+
+Implement the core solution.
+Test the robot's behavior.
+Identify and resolve implementation issues.
+Optimize the program where necessary.
+Validate the final submission against the challenge requirements.
+Team
+
+Team Name: Vyoma-Niti-Mandala
+
+Team members and their respective contributions will be documented here.
+
+Member	Role
+To be announced	To be announced
+About the Challenge
+
+The KIBO Robot Programming Challenge provides an opportunity to apply programming and engineering principles to robotics-based problem-solving. Our submission represents our efforts to develop a practical solution through planning, implementation, testing, and collaboration.
+
+License
+
+This project was developed as a submission for the KIBO Robot Programming Challenge.
+
+Licensing information will be added if and when a specific open-source license is selected.
+
+<div align="center">
+
+Vyoma-Niti-Mandala
+
+Engineering through logic, creativity, and collaboration.
+
+</div>
