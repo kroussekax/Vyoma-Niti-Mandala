@@ -1,14 +1,3 @@
-Vyoma-Niti-Mandala
-
-<div align="center">
-<img width="220" alt="Vyoma-Niti-Mandala Logo" src="https://github.com/user-attachments/assets/7ee4c2be-7998-4009-9e11-685afbe8fbf4" />
-
-KIBO Robot Programming Challenge
-
-Our submission for the KIBO Robot Programming Challenge.
-
-</div>
-
 # Kibo-RPC 7th Simulator
 
 This workspace is used to develop programs for Kibo-RPC 7th and test them with the Web simulator or the local simulator.
@@ -94,10 +83,3 @@ The Programming Manual explains the following topics in detail:
 
 For details, see [docs/ProgrammingManual.md](docs/ProgrammingManual.md).
 
-<div align="center">
-
-Vyoma-Niti-Mandala
-
-Engineering through logic, creativity, and collaboration.
-
-</div>
