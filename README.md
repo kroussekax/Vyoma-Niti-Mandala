@@ -23,18 +23,6 @@ Implement clear, efficient, and maintainable code.
 Apply computational thinking and systematic problem-solving.
 Test, debug, and refine the implementation.
 Collaborate effectively throughout the development process.
-Technologies
-Component	Technology
-Robot Platform	KIBO
-Programming Language	To be determined
-Development Tools	To be determined
-Project Structure
-Vyoma-Niti-Mandala/
-├── README.md
-├── src/       # Source code
-├── docs/      # Project documentation
-└── assets/    # Images and other resources
-
 
 The directory structure will be updated to reflect the actual repository as development progresses.
 
