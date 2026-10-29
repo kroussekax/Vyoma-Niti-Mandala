@@ -4,6 +4,11 @@ This workspace is used to develop programs for Kibo-RPC 7th and test them with t
 
 For environment setup, API specifications, and detailed programming instructions, see the [Programming Manual](docs/ProgrammingManual.md).
 
+## Team Development (start here)
+
+Our team code lives in [`users/catkin_ws/src/krpc_user/`](users/catkin_ws/src/krpc_user/).
+Read [`users/catkin_ws/src/krpc_user/README.md`](users/catkin_ws/src/krpc_user/README.md) first: it explains how the judge scores, which files you may edit, the coding rules, the architecture, and how to test and tune.
+
 ## Before You Start
 
 - Work in Linux or Ubuntu on WSL2.

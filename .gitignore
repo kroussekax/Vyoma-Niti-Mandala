@@ -1,0 +1,13 @@
+# From the official krpc7th-simulator .gitignore
+*.pcd
+build/
+devel/
+share/
+reports/
+__pycache__/
+.pytest_cache/
+src_local_backup/
+ff_msgs
+
+# Submission packages created by users/packing.sh
+users/*.tar.gz
